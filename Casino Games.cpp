@@ -1,6 +1,6 @@
 #include <iostream>
-#include <string> // Diperlukan untuk menggunakan string
-#include <cstdlib> // Diperlukan untuk menggunakan angka acak
+#include <string>
+#include <cstdlib>
 #include <ctime>
 using namespace std;
 
