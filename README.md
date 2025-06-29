@@ -1,4 +1,6 @@
 # All Project C++
+## 🤡 Buat Mengisi Kegabutan Aja Bang
+![Malas](https://tse3.mm.bing.net/th/id/OIP.l5HZmFp2QhroDvGCPpzH5AHaFK?r=0&rs=1&pid=ImgDetMain&o=7&rm=3)
 
 ## 📁 Deskripsi
 Repositori ini berisi kumpulan proyek C++ yang mencakup berbagai konsep pemrograman, dari dasar hingga tingkat lanjut. Setiap folder mewakili proyek individual dengan implementasi dan dokumentasinya masing-masing.
